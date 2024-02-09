@@ -23,13 +23,13 @@ Image Classification
 #
 * *Dataset :*
 
-  * [Meningioma-images](https://github.com/omars1234/DeepLearning_CNN/tree/7fbdbd8523ebf4ffe55654a1f4aa808771a741b3/DataSet/meningioma)
+  * [Meningioma-images](https://github.com/omars1234/DeepLearning_CNN/tree/f3d6016ce27f2ca613684d52aaf842c416c27ea7/DataSet/meningioma)
 
-  * [glioma-images](https://github.com/omars1234/DeepLearning_CNN/tree/7fbdbd8523ebf4ffe55654a1f4aa808771a741b3/DataSet/glioma)
+  * [glioma-images](https://github.com/omars1234/DeepLearning_CNN/tree/f3d6016ce27f2ca613684d52aaf842c416c27ea7/DataSet/glioma)
 
-  * [pituitary-images](https://github.com/omars1234/DeepLearning_CNN/tree/7fbdbd8523ebf4ffe55654a1f4aa808771a741b3/DataSet/pituitary)
+  * [pituitary-images](https://github.com/omars1234/DeepLearning_CNN/tree/f3d6016ce27f2ca613684d52aaf842c416c27ea7/DataSet/pituitary)
 
-  * [notumor-images](https://github.com/omars1234/DeepLearning_CNN/tree/7fbdbd8523ebf4ffe55654a1f4aa808771a741b3/DataSet/notumor)
+  * [notumor-images](https://github.com/omars1234/DeepLearning_CNN/tree/f3d6016ce27f2ca613684d52aaf842c416c27ea7/DataSet/notumor)
 
 
 #
