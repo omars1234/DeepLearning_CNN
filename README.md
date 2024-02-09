@@ -36,7 +36,7 @@ Image Classification
 
   * *NoteBook :*
 
-  [*DirectLink*](https://github.com/omars1234/DeepLearning_CNN/blob/911aca9d265113497e7c91ba8616e2b973aef6c3/new_3%20copy.ipynb)
+  [*DirectLink*](https://github.com/omars1234/DeepLearning_CNN/blob/fef70fde7a2c5f877c5fe5ce351b221c51143215/NoteBook.ipynb)
 
   #
   
