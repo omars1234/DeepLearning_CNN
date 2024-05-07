@@ -21,25 +21,18 @@ Image Classification
 
 
 #
-* *Dataset :*
+* *Datasets :*
 
-  * [Meningioma-images](https://github.com/omars1234/DeepLearning_CNN/tree/f3d6016ce27f2ca613684d52aaf842c416c27ea7/DataSet/meningioma)
-
-  * [glioma-images](https://github.com/omars1234/DeepLearning_CNN/tree/f3d6016ce27f2ca613684d52aaf842c416c27ea7/DataSet/glioma)
-
-  * [pituitary-images](https://github.com/omars1234/DeepLearning_CNN/tree/f3d6016ce27f2ca613684d52aaf842c416c27ea7/DataSet/pituitary)
-
-  * [notumor-images](https://github.com/omars1234/DeepLearning_CNN/tree/f3d6016ce27f2ca613684d52aaf842c416c27ea7/DataSet/notumor)
-
-
+  * *Meningioma-images*
+  * *glioma-images*
+  * *pituitary-images*
+  * *notumor-images*
 #
-
-  * *NoteBook :*
-
-    * [*DirectLink*](https://github.com/omars1234/DeepLearning_CNN/blob/fef70fde7a2c5f877c5fe5ce351b221c51143215/NoteBook.ipynb)
-
-    * [*App*](https://github.com/omars1234/DeepLearning_CNN/blob/2acb0f894cd4394393f208a802437e55890dda96/app.py)
-
+  * *NoteBook*
   #
+  * *App using streamlit*
+  #
+  * *Requirements file*
+
   
 
