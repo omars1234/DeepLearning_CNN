@@ -7,7 +7,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 model=pickle.load(open("ImageClassification_model.pkl","rb"))
-Tumor_types=['glioma', 'meningioma', 'notumor', 'pituitary']
+Tumor_types=['meningioma','glioma',  'notumor', 'pituitary']
 
 
 def show_predict_page():
@@ -32,8 +32,14 @@ def show_predict_page():
               make_prediction=model.predict(np.expand_dims(resize/255,0))
               
 
-              for i in make_prediction:
-                   st.write(i)
+              st.write(Tumor_types,make_prediction)    
+
+
+              
+
+              #for i in make_prediction:
+               #    for x in Tumor_types:
+                #       st.write(x,i)
 
 
 
